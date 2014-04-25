@@ -1,0 +1,30 @@
+The compilation of grade_me:
+1. Download grade_me.cpp from UCMCROPS to your home directory (~/).
+2. Copy the file to your home directory at engapps00 using the rsync command:
+	rsync -avz ~/grade_me.cpp UCM_ID@engapps00:~/
+3. Log in to engapps00 machine:
+	ssh UCM_ID@engapps00
+4. compile grade_me.cpp:
+	g++ -o grade_me grade_me.cpp
+
+This should be done only once during the whole course. Once you have grade_me binary up and running, you can use it for all the assignments.
+ 
+To check your assignment:
+1. Assume that you want to check your code for the assignment #0 and you source code is located in the file ass0.cpp at your home directory(~/).
+2. Copy your cpp (or binary) file to engapps00:
+ 	rsync -avz ~/ass0.cpp UCM_ID@engapps00:~/
+3. Log in to engapps00 machine:
+	ssh UCM_ID@engapps00
+4. compile ass0.cpp:
+	g++ -o ass0 ass0.cpp
+5. check the code with grade_me. 
+	./grade_me 0 ass0
+
+
+For the future assignments, just substitute 0 in the first argument of grade_me with the assignment's number.
+
+Once you have passed the grade_me test successfully, show it to TA in order to receive a credit for the lab!
+
+If you work directly on engapps00 machine (using e.g. vim or nano editor) in order to check your code you need to perform only two final steps.
+
+Note, that if you want to assess your engapps00 account off-campus, you need to provide its full domain name (i.e. engapps00.ucmerced.edu instead of engapps00).

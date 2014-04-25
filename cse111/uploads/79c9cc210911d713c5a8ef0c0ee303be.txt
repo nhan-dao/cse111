@@ -1,0 +1,1532 @@
+Problem 1.
+	#|SUM(l_quantity)
+	-+---------------
+	1|36415          
+
+
+
+Problem 2. 
+	----------
+	12
+
+Problem 3. 
+	p_name
+	----------------------------------
+almond aquamarine mint misty red
+almond azure drab ghost mint
+almond bisque steel rosy burlywood
+almond chiffon indian green dim
+almond chocolate firebrick black bisque
+almond cornsilk antique light honeydew
+almond firebrick beige smoke maroon
+almond floral grey dim sky
+almond ghost powder blush forest
+almond hot peach cornflower antique
+almond khaki chartreuse hot seashell
+almond lavender honeydew burnished orchid
+almond lemon olive smoke moccasin
+almond linen pale aquamarine ghost
+almond magenta cornsilk metallic blue
+almond misty chiffon dodger goldenrod
+almond moccasin salmon dim peru
+almond rosy green hot midnight
+almond saddle papaya seashell burlywood
+almond seashell azure blanched light
+almond sky red lime smoke
+almond smoke red metallic tan
+almond smoke wheat seashell powder
+almond steel maroon chiffon frosted
+almond steel slate sky rose
+almond thistle cornsilk bisque blush
+antique beige brown deep dodger
+antique brown tan red mint
+antique dodger sienna moccasin slate
+antique gainsboro light magenta brown
+antique goldenrod floral forest slate
+antique grey misty medium firebrick
+antique hot snow burnished ghost
+antique maroon olive turquoise lace
+antique orange peach puff steel
+antique orchid burlywood orange lime
+antique orchid cornflower puff almond
+antique plum smoke pink dodger
+antique powder almond navajo lace
+antique puff pink chartreuse floral
+antique rosy frosted almond tan
+antique saddle almond lawn lemon
+aquamarine bisque midnight antique spring
+aquamarine blanched misty moccasin sky
+aquamarine burnished sandy deep bisque
+aquamarine chartreuse deep magenta olive
+aquamarine coral lemon ivory gainsboro
+aquamarine drab dodger midnight rose
+aquamarine frosted orange dodger khaki
+aquamarine ghost navajo gainsboro chartreuse
+aquamarine grey plum saddle lawn
+aquamarine hot lace navy beige
+aquamarine ivory magenta linen black
+aquamarine lavender maroon slate hot
+aquamarine light lemon sandy khaki
+aquamarine lime goldenrod maroon saddle
+aquamarine magenta seashell orange royal
+aquamarine maroon coral blanched steel
+aquamarine maroon wheat salmon metallic
+aquamarine orange saddle hot red
+aquamarine powder orange yellow lace
+aquamarine puff antique drab beige
+aquamarine purple spring gainsboro salmon
+aquamarine rosy violet moccasin snow
+aquamarine seashell grey navy white
+aquamarine snow powder cornsilk hot
+aquamarine steel firebrick light turquoise
+aquamarine tan lemon salmon peach
+aquamarine thistle pink cornflower pale
+aquamarine tomato hot pink lawn
+azure beige olive dim orange
+azure burnished honeydew navy cyan
+azure chocolate lavender blanched burnished
+azure cornsilk indian floral aquamarine
+azure dark sienna black wheat
+azure lace chartreuse spring cream
+azure lime gainsboro orchid firebrick
+azure linen grey blanched dim
+azure magenta lace smoke ghost
+azure magenta powder salmon orange
+azure peach lavender frosted orchid
+azure sky tomato midnight lace
+azure smoke mint cream burlywood
+beige azure red plum olive
+beige blanched coral cornsilk sky
+beige blue wheat medium khaki
+beige chartreuse royal maroon cornsilk
+beige coral powder papaya black
+beige cornflower gainsboro chiffon wheat
+beige cyan burlywood chiffon light
+beige floral goldenrod lace almond
+beige frosted cyan hot puff
+beige frosted moccasin chocolate snow
+beige indian lime sienna plum
+beige lemon forest lace plum
+beige olive tan pale lace
+beige orchid chartreuse powder slate
+beige papaya grey ivory white
+beige royal ghost linen almond
+beige saddle magenta cyan dim
+beige slate magenta dim salmon
+beige smoke slate steel lavender
+beige spring floral wheat drab
+beige steel tomato chiffon burnished
+beige thistle smoke moccasin rose
+beige violet black magenta chartreuse
+bisque almond lavender pale royal
+bisque blue drab cyan almond
+bisque blush beige honeydew slate
+bisque chiffon orange misty tan
+bisque cornflower lawn forest magenta
+bisque cyan rosy ivory blanched
+bisque deep cornsilk honeydew tomato
+bisque dodger blanched steel maroon
+bisque floral dim burlywood moccasin
+bisque frosted khaki linen royal
+bisque green indian dark yellow
+bisque grey honeydew goldenrod ghost
+bisque indian smoke beige linen
+bisque ivory mint purple almond
+bisque khaki thistle orange medium
+bisque light frosted white olive
+bisque misty dark hot blush
+bisque misty firebrick lemon dodger
+bisque misty sky cornflower peach
+bisque navajo cream olive tan
+bisque navajo mint medium seashell
+bisque peach magenta tomato yellow
+bisque red peru almond grey
+bisque rose cornsilk seashell purple
+bisque rose tan midnight antique
+bisque rosy olive peach chiffon
+bisque royal goldenrod medium thistle
+bisque saddle cyan rose wheat
+bisque saddle hot steel frosted
+bisque salmon cyan powder sandy
+bisque sienna hot goldenrod khaki
+bisque snow turquoise lace blush
+black bisque plum pale cyan
+black dark gainsboro orange wheat
+black drab deep blue maroon
+black firebrick navy beige peach
+black frosted aquamarine maroon orange
+black indian forest hot olive
+black lavender dark cornflower grey
+black lawn light plum blush
+black linen ghost coral magenta
+black metallic tomato khaki rosy
+black mint olive drab medium
+black navy rose honeydew violet
+black olive light sandy linen
+black pink plum blanched linen
+black plum tomato cornflower medium
+black rosy ghost yellow ivory
+black royal forest dim yellow
+black seashell sky grey snow
+black slate wheat firebrick thistle
+black tan metallic dark misty
+black tan salmon maroon chartreuse
+blanched cyan sandy drab blue
+blanched deep sky ghost antique
+blanched drab deep spring orange
+blanched ghost turquoise burlywood spring
+blanched honeydew sky turquoise medium
+blanched indian pink frosted grey
+blanched khaki antique red grey
+blanched lemon magenta medium dark
+blanched light indian goldenrod dim
+blanched lime almond moccasin floral
+blanched maroon blush burlywood salmon
+blanched mint yellow papaya cyan
+blanched misty hot peach cyan
+blanched misty turquoise black plum
+blanched peach salmon chiffon azure
+blanched pink frosted mint snow
+blanched plum navajo beige indian
+blanched rose black lawn dark
+blanched rose royal tomato hot
+blanched seashell navy black dim
+blanched thistle ivory powder grey
+blue azure slate lace burlywood
+blue beige seashell purple lime
+blue bisque lace maroon pale
+blue coral gainsboro slate lawn
+blue drab lime khaki sienna
+blue gainsboro maroon green burnished
+blue gainsboro sky burnished puff
+blue lemon hot burnished salmon
+blue medium royal blush ghost
+blue misty navajo moccasin pale
+blue olive tan rosy navajo
+blue orchid rose chocolate spring
+blue peach smoke coral cream
+blue sienna navy coral violet
+blue spring grey bisque orange
+blue tomato royal lemon ivory
+blue turquoise tomato smoke orchid
+blue violet white papaya royal
+blue violet yellow khaki azure
+blush antique goldenrod linen rosy
+blush beige goldenrod red yellow
+blush brown goldenrod snow tan
+blush chocolate floral goldenrod lavender
+blush chocolate light coral midnight
+blush coral medium ivory snow
+blush cyan azure snow sandy
+blush firebrick misty blanched purple
+blush floral tan thistle chiffon
+blush forest slate seashell puff
+blush frosted powder antique blanched
+blush goldenrod purple green indian
+blush green dim lawn peru
+blush lemon steel peach gainsboro
+blush magenta ghost tomato rose
+blush metallic maroon lawn forest
+blush navajo peru chartreuse dim
+blush navy indian peru lemon
+blush orchid rose tomato purple
+blush peru gainsboro dodger sandy
+blush plum tomato floral olive
+blush powder ivory lemon maroon
+blush sienna honeydew yellow goldenrod
+blush thistle blue yellow saddle
+blush thistle chartreuse tomato navy
+blush thistle orchid red lace
+blush tomato lace puff orchid
+blush yellow indian cyan orchid
+blush yellow red dodger navy
+brown black cream navy plum
+brown black ghost green cream
+brown blush dark white mint
+brown blush frosted moccasin olive
+brown floral light black orchid
+brown ghost slate seashell lawn
+brown lavender spring chocolate firebrick
+brown lime sky purple salmon
+brown maroon powder antique midnight
+brown midnight plum violet tomato
+brown mint lavender moccasin slate
+brown navy tan salmon honeydew
+brown olive black seashell lavender
+brown saddle powder white peru
+brown seashell hot lavender frosted
+brown seashell red bisque sandy
+brown smoke sandy honeydew antique
+brown thistle magenta wheat blanched
+brown violet turquoise frosted navajo
+burlywood blue magenta grey forest
+burlywood chocolate almond ivory coral
+burlywood cornflower aquamarine misty snow
+burlywood cyan rose lavender sky
+burlywood dark blue thistle navajo
+burlywood dark steel sky blue
+burlywood deep antique snow wheat
+burlywood deep hot turquoise chartreuse
+burlywood dim tan drab ghost
+burlywood ghost orchid misty coral
+burlywood goldenrod pink peru sienna
+burlywood honeydew cornsilk indian green
+burlywood moccasin steel grey powder
+burlywood orchid dark drab dodger
+burlywood peach papaya violet midnight
+burlywood rosy turquoise coral mint
+burlywood seashell slate white cream
+burlywood smoke tan steel royal
+burlywood thistle royal blush ghost
+burnished azure sienna navajo peru
+burnished black almond white violet
+burnished black blue metallic orchid
+burnished blush gainsboro yellow ivory
+burnished cornflower pink puff burlywood
+burnished cornsilk chiffon plum forest
+burnished dim gainsboro thistle blue
+burnished firebrick ivory peru steel
+burnished firebrick light steel lemon
+burnished frosted chocolate aquamarine ivory
+burnished frosted ghost olive powder
+burnished ghost coral maroon yellow
+burnished goldenrod royal plum midnight
+burnished grey honeydew green linen
+burnished hot drab midnight tan
+burnished lime green turquoise red
+burnished lime seashell blue cornsilk
+burnished medium misty midnight wheat
+burnished pale medium turquoise lace
+burnished peru lawn cyan sienna
+burnished puff coral light papaya
+burnished seashell floral moccasin antique
+burnished sky sandy sienna red
+burnished spring azure green chocolate
+burnished turquoise forest smoke plum
+burnished white midnight black snow
+chartreuse azure lemon saddle dark
+chartreuse beige bisque dark wheat
+chartreuse bisque wheat puff honeydew
+chartreuse brown peach drab snow
+chartreuse goldenrod midnight cornflower blush
+chartreuse hot magenta purple thistle
+chartreuse lawn lace midnight chiffon
+chartreuse lawn peru peach cornflower
+chartreuse linen grey slate saddle
+chartreuse linen violet ghost thistle
+chartreuse medium gainsboro honeydew saddle
+chartreuse navajo moccasin orchid spring
+chartreuse peach olive coral sandy
+chartreuse peach spring cornflower tan
+chartreuse pink azure tan slate
+chartreuse puff chiffon lemon peru
+chartreuse seashell powder navy grey
+chartreuse thistle midnight magenta violet
+chartreuse tomato rose chocolate magenta
+chartreuse white firebrick salmon slate
+chiffon bisque sienna black royal
+chiffon bisque steel orange tomato
+chiffon blanched grey midnight deep
+chiffon coral wheat peru lavender
+chiffon goldenrod grey light coral
+chiffon ivory lawn metallic beige
+chiffon lace linen steel bisque
+chiffon lawn saddle powder peach
+chiffon linen rose white rosy
+chiffon papaya lavender tomato spring
+chiffon pink bisque yellow frosted
+chiffon red frosted peach spring
+chiffon royal lime almond midnight
+chiffon saddle snow ghost blanched
+chiffon salmon beige pink yellow
+chiffon seashell slate smoke lawn
+chiffon steel peach black moccasin
+chiffon tan forest moccasin dark
+chocolate azure green sandy beige
+chocolate beige cornsilk lawn olive
+chocolate blue smoke azure sandy
+chocolate burnished lemon drab chartreuse
+chocolate burnished orchid mint royal
+chocolate cornsilk goldenrod violet puff
+chocolate cornsilk midnight beige floral
+chocolate dim honeydew orange dodger
+chocolate frosted turquoise brown puff
+chocolate honeydew khaki aquamarine white
+chocolate indian lemon light magenta
+chocolate light firebrick rose indian
+chocolate navy tan deep brown
+chocolate pale blue sienna smoke
+chocolate red salmon drab medium
+chocolate royal cornflower papaya yellow
+chocolate slate maroon azure goldenrod
+chocolate tomato light chartreuse orange
+coral antique peach navy violet
+coral beige sandy olive steel
+coral dodger beige black chartreuse
+coral green black chocolate mint
+coral lavender seashell rosy burlywood
+coral light mint chartreuse beige
+coral magenta light floral tomato
+coral mint sky rosy red
+coral misty brown grey hot
+coral navy aquamarine hot turquoise
+coral orchid grey lavender misty
+coral peach bisque green seashell
+coral peach medium pale light
+coral peru forest thistle khaki
+coral rose drab cream midnight
+coral rose puff chiffon green
+coral saddle indian lime frosted
+coral thistle blanched linen tan
+cornflower brown rosy seashell mint
+cornflower burlywood blue spring purple
+cornflower chocolate floral burnished green
+cornflower chocolate smoke green pink
+cornflower deep turquoise slate sandy
+cornflower dodger saddle ivory tan
+cornflower green sandy chiffon cyan
+cornflower honeydew lavender ivory royal
+cornflower hot lace navy chocolate
+cornflower hot red aquamarine powder
+cornflower lime midnight plum forest
+cornflower medium salmon coral magenta
+cornflower navy smoke chartreuse snow
+cornflower pale almond lemon linen
+cornflower peru seashell orchid beige
+cornflower puff lime pink misty
+cornflower sky powder cyan linen
+cornflower tan gainsboro sandy honeydew
+cornflower wheat orange maroon ghost
+cornflower white papaya violet navajo
+cornsilk bisque seashell lemon frosted
+cornsilk blue yellow powder lime
+cornsilk blush bisque hot cyan
+cornsilk burnished black blanched turquoise
+cornsilk drab ghost sandy royal
+cornsilk grey sienna blue sky
+cornsilk khaki olive navy tan
+cornsilk lace brown pink coral
+cornsilk lace white medium honeydew
+cornsilk linen gainsboro lemon papaya
+cornsilk maroon blanched thistle rosy
+cornsilk peach dim ghost brown
+cornsilk peru steel beige blue
+cornsilk pink cornflower goldenrod navajo
+cornsilk powder bisque chartreuse spring
+cornsilk seashell lime aquamarine violet
+cornsilk snow lace dodger azure
+cornsilk tomato chiffon bisque navy
+cornsilk tomato firebrick tan puff
+cornsilk turquoise blanched forest maroon
+cream aquamarine violet medium midnight
+cream brown grey burlywood bisque
+cream burnished steel royal lemon
+cream chartreuse lawn beige plum
+cream coral sandy thistle spring
+cream cornsilk linen pale bisque
+cream deep black tan brown
+cream deep floral grey chiffon
+cream green floral powder dim
+cream honeydew burlywood light pale
+cream indian deep linen antique
+cream ivory brown peach honeydew
+cream lavender black grey royal
+cream lemon goldenrod rosy aquamarine
+cream magenta lavender firebrick purple
+cream misty floral moccasin antique
+cream misty steel spring medium
+cream moccasin royal dim chiffon
+cream navajo drab dark peru
+cream navy mint peru burlywood
+cream orange seashell orchid plum
+cream puff coral ghost burlywood
+cream red aquamarine chiffon sandy
+cream royal light yellow hot
+cream seashell orange frosted brown
+cream sienna sandy thistle medium
+cream tomato rose floral steel
+cream white navajo frosted puff
+cyan aquamarine red plum frosted
+cyan blanched red steel sky
+cyan burlywood thistle black deep
+cyan burnished tomato chiffon navy
+cyan cream forest magenta smoke
+cyan firebrick medium orchid white
+cyan frosted spring orange puff
+cyan lawn snow sky peru
+cyan lime lawn misty mint
+cyan moccasin blanched light purple
+cyan navajo turquoise forest firebrick
+cyan orange beige magenta orchid
+cyan orchid grey tan bisque
+cyan orchid indian cornflower saddle
+cyan powder brown sandy burlywood
+cyan royal metallic coral white
+cyan snow azure slate papaya
+cyan turquoise azure pink dark
+cyan white honeydew blue hot
+dark aquamarine tomato medium puff
+dark black almond olive salmon
+dark black rosy yellow ivory
+dark burlywood burnished snow sky
+dark chocolate wheat ivory orchid
+dark cream plum goldenrod smoke
+dark firebrick peach mint light
+dark floral beige hot cornflower
+dark forest antique lace metallic
+dark hot grey peach black
+dark indian snow cornflower cream
+dark linen orange plum seashell
+dark midnight forest lace sandy
+dark moccasin bisque cyan azure
+dark moccasin snow lavender salmon
+dark powder hot chartreuse moccasin
+dark powder rose puff seashell
+dark sienna thistle sandy maroon
+dark slate almond ghost chartreuse
+dark thistle saddle navajo firebrick
+dark violet medium frosted goldenrod
+dark white slate honeydew maroon
+deep antique royal bisque rosy
+deep black beige frosted cornsilk
+deep chocolate wheat blue floral
+deep coral dodger green peach
+deep dim peach light beige
+deep firebrick slate dim misty
+deep ghost cornflower ivory burnished
+deep grey powder steel peach
+deep hot midnight aquamarine dark
+deep light brown tan yellow
+deep peru lavender antique royal
+deep powder linen lime forest
+deep puff brown blue burlywood
+deep royal drab violet chartreuse
+deep sky turquoise drab peach
+deep turquoise light pale saddle
+deep wheat forest powder firebrick
+deep white khaki floral cornflower
+deep yellow coral sienna white
+dim almond turquoise beige royal
+dim antique dark blanched pink
+dim beige navy honeydew slate
+dim black maroon grey cornsilk
+dim blanched sienna indian sandy
+dim blue slate dodger yellow
+dim blush puff chiffon salmon
+dim cornflower powder bisque tomato
+dim cyan bisque black smoke
+dim deep aquamarine smoke pale
+dim deep puff pink floral
+dim drab snow spring plum
+dim green salmon orange coral
+dim grey gainsboro chiffon aquamarine
+dim hot bisque lime smoke
+dim ivory pink orchid chartreuse
+dim magenta cyan spring peach
+dim midnight beige lace hot
+dim misty lime purple cornsilk
+dim orange beige plum navy
+dim orange dodger khaki light
+dim peach moccasin snow floral
+dim puff frosted brown sky
+dim rose rosy almond purple
+dim saddle lace violet seashell
+dim spring tan turquoise dodger
+dim tan peru floral blanched
+dim yellow aquamarine lavender peach
+dodger antique tan coral honeydew
+dodger beige maroon puff medium
+dodger beige wheat orchid navy
+dodger brown ivory blue pink
+dodger burnished yellow wheat antique
+dodger cream snow pink floral
+dodger firebrick peach ivory seashell
+dodger gainsboro violet steel papaya
+dodger grey drab moccasin lemon
+dodger light burnished papaya bisque
+dodger midnight salmon drab saddle
+dodger moccasin chocolate burlywood drab
+dodger moccasin lemon purple thistle
+dodger moccasin wheat puff lace
+dodger navajo navy peru salmon
+dodger papaya goldenrod antique brown
+dodger purple green peach navajo
+dodger slate pale mint navajo
+dodger smoke spring rosy turquoise
+dodger snow orange almond magenta
+dodger spring antique lace papaya
+dodger wheat puff magenta drab
+dodger wheat steel grey sky
+dodger white chiffon moccasin green
+drab aquamarine red papaya pale
+drab bisque puff ghost floral
+drab burnished white black lavender
+drab chiffon lace plum white
+drab cyan orange blush forest
+drab khaki lavender bisque plum
+drab lavender lawn purple puff
+drab lavender moccasin almond purple
+drab mint ghost dark metallic
+drab orange brown tan lemon
+drab orchid misty puff lace
+drab peru royal pink peach
+drab plum olive firebrick beige
+drab rosy orange peach medium
+drab slate hot black khaki
+drab smoke metallic pale dark
+drab snow chartreuse dim ivory
+drab steel linen puff rosy
+drab steel royal medium chartreuse
+drab turquoise ivory snow lemon
+drab wheat grey burnished burlywood
+drab yellow spring turquoise rose
+firebrick azure mint chocolate wheat
+firebrick black dodger pink salmon
+firebrick black ivory spring medium
+firebrick coral black forest beige
+firebrick cyan ghost lawn chartreuse
+firebrick ghost steel green chartreuse
+firebrick indian forest rose khaki
+firebrick metallic floral azure grey
+firebrick mint lavender turquoise ghost
+firebrick navy rose beige black
+firebrick olive chartreuse frosted ivory
+firebrick orchid cyan brown saddle
+firebrick pink grey saddle peach
+firebrick saddle chocolate peru ghost
+firebrick seashell olive ivory mint
+firebrick slate grey coral goldenrod
+firebrick tan lemon green puff
+firebrick thistle lime frosted khaki
+firebrick violet cyan tomato wheat
+floral aquamarine olive red spring
+floral aquamarine steel cornsilk gainsboro
+floral blanched papaya khaki light
+floral blush lawn puff brown
+floral blush snow linen almond
+floral brown burnished blue metallic
+floral cornsilk grey purple saddle
+floral dark dodger chartreuse lavender
+floral deep frosted drab bisque
+floral frosted seashell light red
+floral goldenrod medium chocolate mint
+floral ivory drab cyan black
+floral khaki grey metallic firebrick
+floral lime misty lace purple
+floral metallic lawn deep sky
+floral misty smoke royal puff
+floral moccasin puff rosy ghost
+floral pale cornflower metallic spring
+floral peru sandy white dim
+floral powder deep linen hot
+floral spring navy misty azure
+floral steel burlywood navy cream
+floral steel midnight red brown
+floral turquoise navy cream lawn
+floral violet saddle dark blue
+floral yellow snow firebrick navajo
+forest almond lime olive lavender
+forest beige turquoise maroon purple
+forest brown coral puff cream
+forest chartreuse plum royal papaya
+forest indian snow grey peru
+forest lemon cream black pink
+forest lime maroon hot coral
+forest metallic blush white moccasin
+forest mint sienna navy ghost
+forest peach sky chocolate tan
+forest puff drab beige blue
+forest purple lawn yellow azure
+forest sandy wheat blue snow
+forest smoke aquamarine cyan dim
+forest steel floral orange frosted
+forest turquoise black floral linen
+frosted antique aquamarine seashell powder
+frosted aquamarine sandy lace rosy
+frosted beige moccasin dim burnished
+frosted beige olive blue navajo
+frosted black moccasin lawn goldenrod
+frosted blue ghost purple coral
+frosted blush black metallic burlywood
+frosted blush firebrick linen salmon
+frosted burlywood honeydew pink lawn
+frosted burnished tomato chiffon seashell
+frosted chocolate dodger honeydew ghost
+frosted chocolate spring peach lawn
+frosted cornflower ghost lime smoke
+frosted cornflower khaki salmon metallic
+frosted cornflower misty plum magenta
+frosted cornsilk tomato burnished smoke
+frosted cream chartreuse goldenrod smoke
+frosted deep powder beige lemon
+frosted dodger cyan medium indian
+frosted drab mint powder metallic
+frosted gainsboro chiffon lawn green
+frosted grey aquamarine thistle papaya
+frosted lace turquoise sky sandy
+frosted lavender black deep ghost
+frosted lawn violet turquoise coral
+frosted metallic mint lawn blanched
+frosted orange yellow seashell navajo
+frosted orchid blanched seashell steel
+frosted peru chiffon yellow aquamarine
+frosted purple sky steel papaya
+frosted rosy powder floral mint
+frosted sky burlywood steel ghost
+frosted tomato almond salmon powder
+frosted tomato deep burnished indian
+frosted violet seashell linen sienna
+gainsboro blanched chiffon orchid dim
+gainsboro chocolate bisque sandy steel
+gainsboro chocolate maroon hot sienna
+gainsboro coral frosted misty grey
+gainsboro dark cornflower aquamarine olive
+gainsboro dim cyan frosted thistle
+gainsboro dim misty violet coral
+gainsboro dim navajo chartreuse olive
+gainsboro dodger rosy hot steel
+gainsboro indian aquamarine lemon blush
+gainsboro navajo mint cornflower grey
+gainsboro papaya chocolate blush steel
+gainsboro pink grey tan almond
+gainsboro plum powder seashell lawn
+gainsboro powder cyan pale rosy
+gainsboro royal forest dark lace
+gainsboro sienna lawn lavender tan
+gainsboro sky turquoise ghost mint
+gainsboro tomato lawn peru bisque
+gainsboro white medium spring navajo
+ghost antique snow cream cyan
+ghost aquamarine gainsboro lemon peach
+ghost black hot salmon lace
+ghost black thistle navy lawn
+ghost blanched forest khaki rose
+ghost blue indian cornsilk drab
+ghost gainsboro blush royal green
+ghost honeydew cyan lawn powder
+ghost indian brown purple cyan
+ghost lace lemon sienna saddle
+ghost maroon green khaki plum
+ghost mint hot bisque salmon
+ghost misty chocolate peach green
+ghost moccasin turquoise seashell cyan
+ghost olive orange rosy thistle
+ghost plum brown coral cornsilk
+ghost puff sky linen burnished
+ghost rosy beige salmon lemon
+ghost steel beige puff coral
+ghost steel beige turquoise ivory
+ghost steel thistle honeydew pink
+ghost violet wheat saddle almond
+ghost white drab green wheat
+ghost white moccasin yellow papaya
+goldenrod aquamarine olive white pink
+goldenrod beige lemon midnight cornflower
+goldenrod beige sky sandy metallic
+goldenrod black slate forest red
+goldenrod cornsilk blue grey blush
+goldenrod deep cornflower dodger rose
+goldenrod dim wheat tan violet
+goldenrod dodger cyan orchid bisque
+goldenrod honeydew cornflower red midnight
+goldenrod honeydew frosted almond chiffon
+goldenrod lavender spring chocolate lace
+goldenrod magenta papaya medium chiffon
+goldenrod maroon snow cream indian
+goldenrod metallic rose white moccasin
+goldenrod papaya floral blanched wheat
+goldenrod royal slate grey burlywood
+goldenrod sienna linen steel floral
+goldenrod white dodger chocolate purple
+green azure puff metallic lace
+green azure rose aquamarine floral
+green blanched firebrick dim cream
+green blue royal coral indian
+green blush tomato burlywood seashell
+green dark mint lawn gainsboro
+green drab puff honeydew cyan
+green forest navajo magenta saddle
+green forest rose slate cornflower
+green hot drab cornflower blush
+green magenta lime dim brown
+green medium salmon white papaya
+green pink frosted seashell peach
+green saddle bisque goldenrod peach
+green salmon papaya brown peru
+green thistle azure rosy dodger
+grey aquamarine deep violet blush
+grey blanched mint firebrick snow
+grey burlywood linen tan tomato
+grey cornsilk chocolate maroon hot
+grey deep midnight tomato cream
+grey drab honeydew coral pale
+grey floral cream purple green
+grey floral sienna cyan gainsboro
+grey honeydew wheat beige green
+grey misty puff brown lavender
+grey navy rosy red burnished
+grey orchid sandy wheat midnight
+grey purple chocolate turquoise plum
+grey purple cyan chocolate khaki
+grey royal seashell violet misty
+grey sandy cornflower dodger sky
+grey seashell bisque indian deep
+grey smoke navy peach white
+grey spring chiffon thistle lime
+grey tan lawn violet cornflower
+grey thistle misty rose khaki
+honeydew azure brown royal sky
+honeydew brown sienna red chocolate
+honeydew cornsilk lime red violet
+honeydew cornsilk powder salmon purple
+honeydew cream papaya firebrick frosted
+honeydew ghost azure yellow magenta
+honeydew ghost lace plum sky
+honeydew khaki brown lawn rose
+honeydew lace powder almond red
+honeydew lime khaki saddle indian
+honeydew magenta tomato spring medium
+honeydew orange dodger linen lace
+honeydew pink dodger cream dim
+honeydew red azure magenta brown
+honeydew saddle orange white sandy
+honeydew sandy plum dodger magenta
+honeydew sky salmon misty lavender
+honeydew smoke lemon ghost navajo
+honeydew smoke salmon lavender dodger
+honeydew smoke violet pink bisque
+honeydew tan plum green puff
+honeydew thistle ivory pale magenta
+honeydew turquoise aquamarine spring tan
+honeydew wheat hot white lime
+honeydew yellow dodger midnight purple
+hot aquamarine tomato lace indian
+hot azure royal red dark
+hot black puff peru almond
+hot blanched salmon slate burlywood
+hot chiffon peru dark metallic
+hot cornflower slate saddle pale
+hot firebrick violet wheat bisque
+hot maroon purple navajo floral
+hot medium cornflower dark rose
+hot medium spring orange violet
+hot midnight orchid dim steel
+hot navajo peach orange chiffon
+hot orange red cornsilk goldenrod
+hot peru beige magenta metallic
+hot pink peach lemon chartreuse
+hot powder dim cream metallic
+hot rosy violet plum pale
+hot sandy lavender saddle rosy
+hot seashell chocolate tan sandy
+hot spring yellow azure dodger
+hot yellow navy spring metallic
+indian blush medium thistle lime
+indian cornflower cream rosy royal
+indian cyan grey smoke khaki
+indian dim tan antique puff
+indian honeydew chartreuse navy cyan
+indian lavender cornflower metallic lawn
+indian lavender plum gainsboro midnight
+indian lawn violet deep antique
+indian lemon linen almond tomato
+indian metallic peach gainsboro pale
+indian navy coral pink deep
+indian orchid navajo dark forest
+indian pale peru honeydew forest
+indian smoke orange ghost papaya
+indian tan navy rose cyan
+indian tomato rose powder turquoise
+indian turquoise purple green spring
+indian yellow red lime seashell
+ivory bisque black chiffon gainsboro
+ivory burnished rosy plum cornflower
+ivory chocolate slate midnight ghost
+ivory deep green pink cornflower
+ivory dim orchid antique spring
+ivory grey seashell smoke bisque
+ivory maroon cream red peru
+ivory navy honeydew sandy midnight
+ivory orchid azure frosted light
+ivory peach light thistle antique
+ivory peru lavender orange dark
+ivory rosy royal powder firebrick
+ivory slate lavender tan royal
+ivory smoke papaya turquoise purple
+ivory steel plum gainsboro sienna
+ivory thistle papaya puff powder
+ivory wheat chiffon navy burlywood
+ivory wheat smoke deep lemon
+ivory white burnished papaya cornflower
+ivory yellow peru almond cornsilk
+khaki almond wheat peru maroon
+khaki aquamarine lawn puff royal
+khaki dark blush moccasin floral
+khaki deep brown grey peach
+khaki lavender cornflower powder white
+khaki lavender rose tomato thistle
+khaki lawn rose drab cornsilk
+khaki light black ghost yellow
+khaki metallic plum smoke hot
+khaki mint chartreuse dark frosted
+khaki misty pink plum lime
+khaki navy saddle ghost orchid
+khaki papaya slate medium plum
+khaki powder royal maroon snow
+khaki seashell rose cornsilk navajo
+khaki sky misty sandy tan
+khaki spring ghost orchid metallic
+khaki steel rose ghost salmon
+khaki tomato purple almond tan
+khaki turquoise violet maroon misty
+khaki white violet tan forest
+khaki yellow plum cyan forest
+lace bisque lemon midnight forest
+lace bisque moccasin peru navajo
+lace blanched magenta yellow almond
+lace burnished rosy antique metallic
+lace cornflower spring pink plum
+lace cornsilk pink medium slate
+lace drab wheat red tan
+lace floral peru dim magenta
+lace gainsboro burlywood smoke tomato
+lace hot bisque firebrick lawn
+lace hot khaki steel orchid
+lace light bisque dodger aquamarine
+lace navy burnished cream blanched
+lace pink black orange cornflower
+lace red hot mint goldenrod
+lace royal pink cornsilk antique
+lace sky gainsboro dark ivory
+lavender azure smoke deep ivory
+lavender beige lime sienna cornflower
+lavender bisque light cream seashell
+lavender blue seashell brown ghost
+lavender blush rosy beige sky
+lavender burlywood blanched antique sienna
+lavender chartreuse turquoise rose peach
+lavender chocolate moccasin snow green
+lavender cyan red lace light
+lavender dodger seashell orchid smoke
+lavender forest puff beige tan
+lavender ghost sky beige navy
+lavender grey chiffon gainsboro papaya
+lavender honeydew rose rosy gainsboro
+lavender hot ivory chartreuse burlywood
+lavender indian beige peru antique
+lavender light cornsilk blue azure
+lavender medium deep saddle gainsboro
+lavender powder yellow peach indian
+lavender slate turquoise dim cornsilk
+lavender smoke green navy brown
+lavender thistle navajo grey tan
+lavender violet bisque maroon azure
+lavender yellow pink puff olive
+lawn beige grey royal cyan
+lawn brown black almond mint
+lawn burnished smoke wheat snow
+lawn cornflower puff rosy saddle
+lawn cyan plum bisque cream
+lawn khaki green cornflower sienna
+lawn lace burnished hot frosted
+lawn lemon khaki rosy blue
+lawn mint deep dim blush
+lawn moccasin almond lavender yellow
+lawn moccasin maroon frosted olive
+lawn navajo white honeydew steel
+lawn peru ghost khaki maroon
+lawn puff grey forest indian
+lawn rosy cornsilk floral misty
+lawn turquoise blanched sienna smoke
+lawn wheat dodger forest firebrick
+lemon bisque khaki coral frosted
+lemon black indian cornflower pale
+lemon blue tan ivory lavender
+lemon burlywood chartreuse forest honeydew
+lemon dark khaki antique slate
+lemon deep pink indian puff
+lemon drab red lime mint
+lemon firebrick lime white wheat
+lemon floral azure frosted lime
+lemon honeydew metallic saddle cream
+lemon honeydew thistle saddle burnished
+lemon indian azure orange steel
+lemon lace ivory khaki wheat
+lemon light grey burlywood drab
+lemon midnight black papaya peru
+lemon midnight lace sky deep
+lemon midnight metallic sienna steel
+lemon moccasin medium beige cornsilk
+lemon navajo deep firebrick gainsboro
+lemon navy seashell khaki sienna
+lemon pale blue burnished white
+lemon peach spring rose ghost
+lemon plum chartreuse hot purple
+lemon puff beige orchid medium
+lemon saddle royal beige orange
+lemon sky grey salmon orchid
+lemon slate khaki misty hot
+lemon snow coral lime seashell
+lemon thistle sandy royal peru
+lemon yellow coral deep lime
+light burnished linen sienna dim
+light cornflower goldenrod orchid aquamarine
+light firebrick cyan puff blue
+light goldenrod green lime papaya
+light goldenrod honeydew indian lemon
+light honeydew moccasin spring turquoise
+light khaki dodger dark lawn
+light khaki lime lemon burnished
+light lace gainsboro coral lavender
+light lavender smoke gainsboro pink
+light lemon salmon navy medium
+light magenta indian khaki lavender
+light mint smoke pink saddle
+light navy deep papaya olive
+light orchid purple black navy
+light papaya azure burnished misty
+light peach saddle medium firebrick
+light sandy white bisque burlywood
+light smoke seashell snow chartreuse
+light tan linen tomato peach
+light wheat sky chartreuse steel
+lime aquamarine medium pink dim
+lime black dim lemon mint
+lime chiffon sky magenta midnight
+lime cornflower indian dark chiffon
+lime cornflower sky beige antique
+lime frosted indian dodger linen
+lime green dark misty chiffon
+lime lace dodger tan azure
+lime magenta deep violet dark
+lime moccasin chiffon goldenrod orange
+lime moccasin seashell orange coral
+lime orange bisque chartreuse lemon
+lime peach puff papaya olive
+lime violet puff snow chiffon
+lime violet tomato drab blush
+lime yellow sandy floral khaki
+linen bisque tomato gainsboro goldenrod
+linen blanched tomato slate medium
+linen dodger lime purple cornsilk
+linen drab blush maroon sienna
+linen frosted slate coral peru
+linen ghost smoke blanched cream
+
+Problem 4. 
+	s_name
+	----------------
+Supplier#000000001
+Supplier#000000002
+Supplier#000000003
+Supplier#000000004
+Supplier#000000005
+Supplier#000000006
+Supplier#000000007
+Supplier#000000008
+Supplier#000000009
+Supplier#000000010
+Supplier#000000011
+Supplier#000000012
+Supplier#000000013
+Supplier#000000014
+Supplier#000000015
+Supplier#000000016
+Supplier#000000017
+Supplier#000000018
+Supplier#000000019
+Supplier#000000020
+Supplier#000000021
+Supplier#000000022
+Supplier#000000023
+Supplier#000000024
+Supplier#000000025
+Supplier#000000026
+Supplier#000000027
+Supplier#000000028
+Supplier#000000029
+Supplier#000000030
+Supplier#000000031
+Supplier#000000032
+Supplier#000000033
+Supplier#000000034
+Supplier#000000035
+Supplier#000000036
+Supplier#000000037
+Supplier#000000038
+Supplier#000000039
+Supplier#000000040
+Supplier#000000041
+Supplier#000000042
+Supplier#000000043
+Supplier#000000044
+Supplier#000000045
+Supplier#000000046
+Supplier#000000047
+Supplier#000000048
+Supplier#000000049
+Supplier#000000050
+Supplier#000000051
+Supplier#000000052
+Supplier#000000053
+Supplier#000000054
+Supplier#000000055
+Supplier#000000056
+Supplier#000000057
+Supplier#000000058
+Supplier#000000059
+Supplier#000000060
+Supplier#000000061
+Supplier#000000062
+Supplier#000000063
+Supplier#000000064
+Supplier#000000065
+Supplier#000000066
+Supplier#000000067
+Supplier#000000068
+Supplier#000000069
+Supplier#000000070
+Supplier#000000071
+Supplier#000000072
+Supplier#000000073
+Supplier#000000074
+Supplier#000000075
+Supplier#000000076
+Supplier#000000077
+Supplier#000000078
+Supplier#000000079
+Supplier#000000080
+Supplier#000000081
+Supplier#000000082
+Supplier#000000083
+Supplier#000000084
+Supplier#000000085
+Supplier#000000086
+Supplier#000000087
+Supplier#000000088
+Supplier#000000089
+Supplier#000000090
+Supplier#000000091
+Supplier#000000092
+Supplier#000000093
+Supplier#000000094
+Supplier#000000095
+Supplier#000000096
+Supplier#000000097
+Supplier#000000098
+Supplier#000000099
+Supplier#000000100
+
+
+Problem 5.
+	Supplier#000000032	1900.99
+	Supplier#000000044	1900.99
+	Supplier#000000088	1900.99
+	Supplier#000000100	1900.99
+
+
+Problem 6.
+	Supplier#000000054	Customer#000000676	466001.28
+	Supplier#000000029	Customer#000000676	466001.28
+	Supplier#000000001	Customer#000000676	466001.28
+	Supplier#000000042	Customer#000000676	466001.28
+	Supplier#000000080	Customer#000000676	466001.28
+	Supplier#000000003	Customer#000000676	466001.28
+	Supplier#000000021	Customer#000000676	466001.28
+
+Problem 7. 
+	------------------
+	0
+
+Problem 8. 
+	#  |                
+---+----------------
+1  |Customer#0000000
+2  |Customer#0000000
+3  |Customer#0000000
+4  |Customer#0000000
+5  |Customer#0000000
+6  |Customer#0000000
+7  |Customer#0000000
+8  |Customer#0000000
+9  |Customer#0000000
+10 |Customer#0000000
+11 |Customer#0000000
+12 |Customer#0000000
+13 |Customer#0000000
+14 |Customer#0000000
+15 |Customer#0000000
+16 |Customer#0000000
+17 |Customer#0000000
+18 |Customer#0000000
+19 |Customer#0000000
+20 |Customer#0000000
+21 |Customer#0000000
+22 |Customer#0000000
+23 |Customer#0000000
+24 |Customer#0000000
+25 |Customer#0000000
+26 |Customer#0000000
+27 |Customer#0000000
+28 |Customer#0000001
+29 |Customer#0000001
+30 |Customer#0000001
+31 |Customer#0000001
+32 |Customer#0000001
+33 |Customer#0000001
+34 |Customer#0000001
+35 |Customer#0000001
+36 |Customer#0000001
+37 |Customer#0000001
+38 |Customer#0000001
+39 |Customer#0000001
+40 |Customer#0000001
+41 |Customer#0000001
+42 |Customer#0000001
+43 |Customer#0000001
+44 |Customer#0000001
+45 |Customer#0000001
+46 |Customer#0000001
+47 |Customer#0000001
+48 |Customer#0000001
+49 |Customer#0000001
+50 |Customer#0000001
+51 |Customer#0000001
+52 |Customer#0000001
+53 |Customer#0000001
+54 |Customer#0000001
+55 |Customer#0000001
+56 |Customer#0000002
+57 |Customer#0000002
+58 |Customer#0000002
+59 |Customer#0000002
+60 |Customer#0000002
+61 |Customer#0000002
+62 |Customer#0000002
+63 |Customer#0000002
+64 |Customer#0000002
+65 |Customer#0000002
+66 |Customer#0000002
+67 |Customer#0000002
+68 |Customer#0000002
+69 |Customer#0000002
+70 |Customer#0000002
+71 |Customer#0000002
+72 |Customer#0000002
+73 |Customer#0000002
+74 |Customer#0000002
+75 |Customer#0000002
+76 |Customer#0000002
+77 |Customer#0000002
+78 |Customer#0000002
+79 |Customer#0000002
+80 |Customer#0000003
+81 |Customer#0000003
+82 |Customer#0000003
+83 |Customer#0000003
+84 |Customer#0000003
+85 |Customer#0000003
+86 |Customer#0000003
+87 |Customer#0000003
+88 |Customer#0000003
+89 |Customer#0000003
+90 |Customer#0000003
+91 |Customer#0000003
+92 |Customer#0000003
+93 |Customer#0000003
+94 |Customer#0000003
+95 |Customer#0000003
+96 |Customer#0000003
+97 |Customer#0000003
+98 |Customer#0000003
+99 |Customer#0000003
+100|Customer#0000003
+101|Customer#0000003
+102|Customer#0000003
+103|Customer#0000003
+104|Customer#0000004
+105|Customer#0000004
+106|Customer#0000004
+107|Customer#0000004
+108|Customer#0000004
+109|Customer#0000004
+110|Customer#0000004
+111|Customer#0000004
+112|Customer#0000004
+113|Customer#0000004
+114|Customer#0000004
+115|Customer#0000004
+116|Customer#0000004
+117|Customer#0000004
+118|Customer#0000004
+119|Customer#0000004
+120|Customer#0000004
+121|Customer#0000004
+122|Customer#0000004
+123|Customer#0000004
+124|Customer#0000004
+125|Customer#0000004
+126|Customer#0000004
+127|Customer#0000004
+128|Customer#0000005
+129|Customer#0000005
+130|Customer#0000005
+131|Customer#0000005
+132|Customer#0000005
+133|Customer#0000005
+134|Customer#0000005
+135|Customer#0000005
+136|Customer#0000005
+137|Customer#0000005
+138|Customer#0000005
+139|Customer#0000005
+140|Customer#0000005
+141|Customer#0000005
+142|Customer#0000005
+143|Customer#0000005
+144|Customer#0000005
+145|Customer#0000005
+146|Customer#0000005
+147|Customer#0000005
+148|Customer#0000005
+149|Customer#0000005
+150|Customer#0000005
+151|Customer#0000005
+152|Customer#0000006
+153|Customer#0000006
+154|Customer#0000006
+155|Customer#0000006
+156|Customer#0000006
+157|Customer#0000006
+158|Customer#0000006
+159|Customer#0000006
+160|Customer#0000006
+161|Customer#0000006
+162|Customer#0000006
+163|Customer#0000006
+164|Customer#0000006
+165|Customer#0000006
+166|Customer#0000006
+167|Customer#0000006
+168|Customer#0000006
+169|Customer#0000006
+170|Customer#0000006
+171|Customer#0000006
+172|Customer#0000006
+173|Customer#0000006
+174|Customer#0000006
+175|Customer#0000006
+176|Customer#0000007
+177|Customer#0000007
+178|Customer#0000007
+179|Customer#0000007
+180|Customer#0000007
+181|Customer#0000007
+182|Customer#0000007
+183|Customer#0000007
+184|Customer#0000007
+185|Customer#0000007
+186|Customer#0000007
+187|Customer#0000007
+188|Customer#0000007
+189|Customer#0000007
+190|Customer#0000007
+191|Customer#0000007
+192|Customer#0000007
+193|Customer#0000007
+194|Customer#0000007
+195|Customer#0000007
+196|Customer#0000007
+197|Customer#0000007
+198|Customer#0000007
+199|Customer#0000007
+200|Customer#0000008
+201|Customer#0000008
+202|Customer#0000008
+203|Customer#0000008
+204|Customer#0000008
+205|Customer#0000008
+206|Customer#0000008
+207|Customer#0000008
+208|Customer#0000008
+209|Customer#0000008
+210|Customer#0000008
+211|Customer#0000008
+212|Customer#0000008
+213|Customer#0000008
+214|Customer#0000008
+215|Customer#0000008
+216|Customer#0000008
+217|Customer#0000008
+218|Customer#0000008
+219|Customer#0000008
+220|Customer#0000008
+221|Customer#0000008
+222|Customer#0000008
+223|Customer#0000008
+224|Customer#0000008
+225|Customer#0000008
+226|Customer#0000008
+227|Customer#0000008
+228|Customer#0000009
+229|Customer#0000009
+230|Customer#0000009
+231|Customer#0000009
+232|Customer#0000009
+233|Customer#0000009
+234|Customer#0000009
+235|Customer#0000009
+236|Customer#0000009
+237|Customer#0000009
+238|Customer#0000009
+239|Customer#0000009
+240|Customer#0000009
+241|Customer#0000009
+242|Customer#0000009
+243|Customer#0000009
+244|Customer#0000009
+245|Customer#0000009
+246|Customer#0000009
+247|Customer#0000009
+248|Customer#0000009
+249|Customer#0000009
+250|Customer#0000009
+251|Customer#0000009
+252|Customer#0000009
+253|Customer#0000009
+254|Customer#0000009
+255|Customer#0000009
+256|Customer#0000010
+257|Customer#0000010
+258|Customer#0000010
+259|Customer#0000010
+260|Customer#0000010
+261|Customer#0000010
+262|Customer#0000010
+263|Customer#0000010
+264|Customer#0000010
+265|Customer#0000010
+266|Customer#0000010
+267|Customer#0000010
+268|Customer#0000010
+269|Customer#0000010
+270|Customer#0000010
+271|Customer#0000010
+272|Customer#0000010
+273|Customer#0000010
+274|Customer#0000010
+275|Customer#0000010
+276|Customer#0000010
+277|Customer#0000010
+278|Customer#0000010
+279|Customer#0000010
+280|Customer#0000011
+281|Customer#0000011
+282|Customer#0000011
+283|Customer#0000011
+284|Customer#0000011
+285|Customer#0000011
+286|Customer#0000011
+287|Customer#0000011
+288|Customer#0000011
+289|Customer#0000011
+290|Customer#0000011
+291|Customer#0000011
+292|Customer#0000011
+293|Customer#0000011
+294|Customer#0000011
+295|Customer#0000011
+296|Customer#0000011
+297|Customer#0000011
+298|Customer#0000011
+299|Customer#0000011
+300|Customer#0000011
+301|Customer#0000011
+302|Customer#0000011
+303|Customer#0000011
+304|Customer#0000012
+305|Customer#0000012
+306|Customer#0000012
+307|Customer#0000012
+308|Customer#0000012
+309|Customer#0000012
+310|Customer#0000012
+311|Customer#0000012
+312|Customer#0000012
+313|Customer#0000012
+314|Customer#0000012
+315|Customer#0000012
+316|Customer#0000012
+317|Customer#0000012
+318|Customer#0000012
+319|Customer#0000012
+320|Customer#0000012
+321|Customer#0000012
+322|Customer#0000012
+323|Customer#0000012
+324|Customer#0000012
+325|Customer#0000012
+326|Customer#0000012
+327|Customer#0000012
+328|Customer#0000013
+329|Customer#0000013
+330|Customer#0000013
+331|Customer#0000013
+332|Customer#0000013
+333|Customer#0000013
+334|Customer#0000013
+335|Customer#0000013
+336|Customer#0000013
+337|Customer#0000013
+338|Customer#0000013
+339|Customer#0000013
+340|Customer#0000013
+341|Customer#0000013
+342|Customer#0000013
+343|Customer#0000013
+344|Customer#0000013
+345|Customer#0000013
+346|Customer#0000013
+347|Customer#0000013
+348|Customer#0000013
+349|Customer#0000013
+350|Customer#0000013
+351|Customer#0000013
+352|Customer#0000014
+353|Customer#0000014
+354|Customer#0000014
+355|Customer#0000014
+356|Customer#0000014
+357|Customer#0000014
+358|Customer#0000014
+359|Customer#0000014
+360|Customer#0000014
+361|Customer#0000014
+362|Customer#0000014
+363|Customer#0000014
+364|Customer#0000014
+365|Customer#0000014
+366|Customer#0000014
+367|Customer#0000014
+368|Customer#0000014
+369|Customer#0000014
+370|Customer#0000014
+371|Customer#0000014
+372|Customer#0000014
+373|Customer#0000014
+374|Customer#0000014
+375|Customer#0000014
+
+
+
+
+Problem 9.
+	#|product         |allprice
+	-+----------------+--------
+	1|goldenrod lavend|901     
+
+
+
+Problem 10.
+	ASIA	588906336.2400012
+
